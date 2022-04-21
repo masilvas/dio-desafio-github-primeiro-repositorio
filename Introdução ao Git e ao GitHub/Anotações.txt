@@ -1,3 +1,3 @@
 Link para download do Git
 https://git-scm.com/download/
-O Git Bach é um terminal estendido para otimizar o usu do Git
+O Git Bach é um terminal estendido para otimizar o uso do Git
