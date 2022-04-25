@@ -1,3 +1,24 @@
 Link para download do Git
 https://git-scm.com/download/
 O Git Bach é um terminal estendido para otimizar o uso do Git
+
+Git bash instalado no computador
+  * Para abrir o Git em uma pasta específica => Botão direito do mouse => seleciona Git Bash.
+  * Tecla TAB autocompleta digitação.
+  
+Comandos usados no Git Bash 
+ * cd /  -> vai ao diretório base (Navegação)
+ * cd .. -> retrocede uma pasta (Navegação)
+ * mkdir nome_pasta => criar uma pasta
+ * rmdir nome_pasta /s /q => apaga pastas e sub-pastas, arquivos dentro da pasta nome_pasta
+ * ls => lista arquivos e pastas
+ * ls -a => flag que mostra pastas e arquivos ocultos
+ * cls   => Limpa tela/termnal Windows
+ * git init   => iniciar repositório no GIT
+ * git add -a => adiciona todos os arquivos
+ * git commit -m "informação sobre o commite que vai ser feito"
+ * git remote add origin https://... => preparar para "empurrar" projeto)
+ * git remote -v => lista repositórios cadastrados
+ * git push origin master => empurra os arquivos e pastas para o site GitHub
+ * git pull origin master => puxar o conteúdo que ainda não foi modificado
+ * git clone https:// -> clonar um repositório publico no GitHub
